@@ -7,7 +7,7 @@ Technologies
 -CSS
 To start this app you should
 -Clone the repository:
-git clone https://github.com/Lastauka/Ristorante
+git clone https://github.com/Lastauka/Pokedex
 Run in Local Environment:
 -npm install
 -npm start
